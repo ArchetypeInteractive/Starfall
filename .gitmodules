@@ -1,0 +1,3 @@
+[submodule "Starfall"]
+	path = Starfall
+	url = git@github.com:ArchetypeInteractive/Starfall-Unreal.git
