@@ -1,3 +1,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = git@github.com:ArchetypeInteractive/Starfall-Backend.git
+[submodule "Starfall"]
+	path = Starfall
+	url = git@github.com:ArchetypeInteractive/Starfall-Unreal.git
